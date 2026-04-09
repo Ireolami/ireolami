@@ -1,39 +1,133 @@
-Hi there 👋👋👋👋
+# 👨‍💻 Olayele Gbenga Awujoola  
+**Data Analyst | BI Engineer | Machine Learning Engineer**
 
-I am Olayele Gbenga Awujoola.
-I'm a Data Analyst and BI Engineer with 4+ years of experience across analytics, machine learning, business intelligence, and data science instruction. 
-I build end-to-end data systems that solve real operational problems, from sensor telemetry pipelines to predictive ML models and automated reporting infrastructure.
-Currently based in Ibadan, Nigeria. Open to remote roles globally and relocation opportunities.
+<p align="left">
+  <a href="https://github.com/Ireolami">
+    <img src="https://komarev.com/ghpvc/?username=Ireolami&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+  <a href="https://linkedin.com/in/olayele-awujoola">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+  <a href="mailto:smarworld25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" />
+  </a>
+</p>
 
-What I Work With
-🤠 Languages: Python, SQL, R
-🫡 Machine Learning: Scikit-learn, XGBoost, TensorFlow, PyTorch, Gradient Boosting, Random Forest
- 🤗 BI and Visualization: Power BI, Tableau, DAX, RFM Segmentation, Seaborn, Matplotlib, Pandas
-🫥 Data Engineering: REST APIs, MQTT, Flask, Make.com, Zapier, Airtable
-🫣 Databases: MySQL, PostgreSQL, Airtable
-😝😝 Automation: Airtable, n8n, Make.com, Zapier and Notion Ai
-🤗🤗 Other: Git, ThingsBoard, Google Sheets, Excel 🤗🤗
+---
 
-Signature Projects
-HR Attrition Prediction Engine
-A full machine learning pipeline built to predict employee attrition using Random Forest, Gradient Boosting, and XGBoost. Achieved AUC of approximately 0.85. Includes data preprocessing, feature engineering, model comparison, and an automated PDF report generator.
-IoT Sensor Monitoring System — Lagos State Water Corporation
-A real-time infrastructure monitoring solution built on MQTT, ThingsBoard, and Flask. Collects and processes sensor telemetry from water distribution infrastructure, with automated alerting and a live operational dashboard.
-E-Commerce Sales Dashboard
-A Power BI dashboard built on a 5,000-transaction dataset. Includes custom DAX measures, RFM customer segmentation, and drill-through reporting across product, time, and geography dimensions.
-Crypto Watcher Automation
-A fully automated cryptocurrency monitoring system built on Make.com. Integrates the CoinGecko API for live price tracking, with alert delivery via Gmail and Telegram, data logging to Airtable and Google Sheets, and a real-time dashboard.
+## 🚀 About Me
 
-Oh, i'm also a researcher.
-Published peer-reviewed research in UMYU Scientifica (2022). ORCID: orcid.org/0000-0002-9432-8984. Previous research includes applying machine learning methods to genomic variant data in a bioinformatics context.
+I build **end-to-end data systems** that transform raw data into decision-ready intelligence.
 
-Experience
-E-Know Consult — Data Analyst and BI Engineer (Current)
-SQI College of ICT — Data Science Instructor (Mentored 150+ learners)
-Abubakar Tatari Ali Polytechnic — Academic role
-PIDI-Nigeria — Data and analytics function
+- 4+ years across analytics, ML, and BI  
+- Strong focus on **production-ready pipelines**, not just models  
+- Experience spanning **IoT systems, business analytics, and predictive modeling**  
+- Open to **remote roles and relocation**
 
-Contact
-Email: smarworld25@gmail.com
-LinkedIn: linkedin.com/in/olayele-awujoola
-GitHub: github.com/Ireolami
+---
+
+## 🧠 Tech Stack
+
+**Languages**  
+`Python` `SQL` `R`
+
+**Machine Learning**  
+`Scikit-learn` `XGBoost` `TensorFlow` `PyTorch`  
+`Random Forest` `Gradient Boosting`
+
+**BI & Analytics**  
+`Power BI` `Tableau` `DAX`  
+`Pandas` `Matplotlib` `Seaborn`
+
+**Data Engineering & Automation**  
+`REST APIs` `MQTT` `Flask`  
+`Make.com` `Zapier` `n8n` `Airtable`
+
+**Databases**  
+`MySQL` `PostgreSQL`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 HR Attrition Prediction Engine
+- Built full ML pipeline (preprocessing → modeling → evaluation)  
+- Models: Random Forest, Gradient Boosting, XGBoost  
+- Achieved **AUC ≈ 0.85**  
+- Automated reporting system (PDF output)
+
+👉 **Impact:** Supports proactive HR decision-making
+
+---
+
+### 🔹 IoT Water Monitoring System (Lagos State)
+- Real-time telemetry system using MQTT + ThingsBoard + Flask  
+- Live dashboards + anomaly alerting  
+- Handles sensor data from infrastructure nodes  
+
+👉 **Impact:** Improves infrastructure visibility and response time
+
+---
+
+### 🔹 E-Commerce Sales Dashboard
+- Power BI dashboard on 5,000+ transactions  
+- RFM segmentation + DAX measures  
+- Drill-through reporting across dimensions  
+
+👉 **Impact:** Enables customer segmentation and revenue insights
+
+---
+
+### 🔹 Crypto Watcher Automation
+- Built with Make.com + CoinGecko API  
+- Telegram & Gmail alerts  
+- Airtable + Google Sheets logging  
+
+👉 **Impact:** Fully automated real-time crypto monitoring system
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ireolami&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ireolami&layout=compact" />
+</p>
+
+---
+
+## 📚 Research
+
+- Published in **UMYU Scientifica (2022)**  
+- ORCID: https://orcid.org/0000-0002-9432-8984  
+
+Focus:
+- Machine Learning in Bioinformatics  
+- Genomic Variant Analysis  
+
+---
+
+## 💼 Experience
+
+**Data Analyst & BI Engineer — E-Know Consult**  
+**Data Science Instructor — SQI College of ICT (150+ students trained)**  
+**Academic Role — Abubakar Tatari Ali Polytechnic**  
+**Data & Analytics — PIDI Nigeria**
+
+---
+
+## 🎯 What I Bring
+
+- End-to-end system thinking (Data → Model → Deployment → Dashboard)  
+- Strong blend of **analytics + engineering + ML**  
+- Real-world project execution, not just theoretical work  
+
+---
+
+## 📫 Contact
+
+- Email: smarworld25@gmail.com  
+- LinkedIn: https://linkedin.com/in/olayele-awujoola  
+- GitHub: https://github.com/Ireolami  
+
+---
